@@ -3,72 +3,72 @@
 //Ejercicio 6
          $matricula = $_POST["matricula"];
                $datos = array(
-                'UBN338' => array(
+                'GUR2428' => array(
                  'Auto' => array(
                     "marca" => "HONDA",
-                    "modelo" => 2020,
+                    "modelo" => 2015,
                     "tipo" => "camioneta"
                  ),
                  "Propiertario" => array(
-                  "nombre" => "Alfonso Esparza",
+                  "nombre" => "Alberto Lopez",
                   "ciudad" => "Puebla, Pue",
-                  "direccion" => "C.U., Jardines de San Manuel "
+                  "direccion" => "14 sur "
                  )
                  ),
 
-                 'QPY5119' => array(
+                 'POE5138' => array(
                     'Auto' => array(
                        "marca" => "Volkswagen",
                        "modelo" => 2017,
                        "tipo" => "auto"
                     ),
                     "Propiertario" => array(
-                     "nombre" => "Armando Pablo",
-                     "ciudad" => "Teziutlan, Pue.",
+                     "nombre" => "Adrian Leon",
+                     "ciudad" => "CDMX",
                      "direccion" => "Calle Benito Juarez "
                     )
                     ),
                     
-                        'VVK9065' => array(
+                        'CWQ7725' => array(
                             'Auto' => array(
                            "marca" => "Toyota",
-                           "modelo" => 2021,
+                           "modelo" => 2011,
                            "tipo" => "camioneta"
                         ),
                         "Propiertario" => array(
-                         "nombre" => "Juanito Aguilar",
-                         "ciudad" => "EDOMEX, Mex",
-                         "direccion" => "Vereda Zelaya, # 6 "
+                         "nombre" => "Daniel Aguilar",
+                         "ciudad" => "CDMX",
+                         "direccion" => "AV. 20 DE NOVIEMBRE NO 1053 "
                         )
                         ),
                         
-                        'JZW9484' => array(
+                        'GXA2455' => array(
                             'Auto' => array(
                                "marca" => "Hyundai",
-                               "modelo" => 2023,
+                               "modelo" => 2013,
                                "tipo" => "auto"
                             ),
                             "Propiertario" => array(
-                             "nombre" => "Luis Jorge Llamas",
+                             "nombre" => "ISIDRO BRAVO UBIETA",
                              "ciudad" => "Duran del Valle",
-                             "direccion" => "Av. David Barragán, 37, Apto 98 "
+                             "direccion" => "BLVD. BENITO JUAREZ S / N "
                             )
                             ),
 
-                            'ALW1302' => array(
+                            'RLZ4720' => array(
                                 'Auto' => array(
                                    "marca" => "chevrolet",
                                    "modelo" => 2016,
                                    "tipo" => "auto"
                                 ),
                                 "Propiertario" => array(
-                                 "nombre" => "Valentino Salcido Hijo",
+                                 "nombre" => "JUANA MORA",
                                  "ciudad" => "Gral. Facundo Tamez",
-                                 "direccion" => "Jr. Emilia Calderón # 98 "
+                                 "direccion" => "AV. 20 DE NOVIEMBRE NO. 1178 "
                                 )
                                 ),
 
-                                'MXU4644' => array(
+                                'MXU4149' => array(
                                     'Auto' => array(
                                        "marca" => "ford",
                                        "modelo" => 2019,
@@ -82,24 +82,24 @@
                                     ),
 
                                 
-                                    'KGW0053' => array(
+                                    'KHQ7823' => array(
                                         'Auto' => array(
                                            "marca" => "audi",
                                            "modelo" => 2023,
                                            "tipo" => "auto"
                                         ),
                                         "Propiertario" => array(
-                                         "nombre" => "Patrik Janković",
-                                         "ciudad" => "Vodice",
-                                         "direccion" => "Vinogradska ulica 93"
+                                         "nombre" => "JUAN CARLOS OLIVO FERNANDEZ",
+                                         "ciudad" => "Puebla. Pue.",
+                                         "direccion" => "CENTRAL ESQ. BENITO JUAREZ"
                                         )
                                         ),
 
                             
-                                        'KTU6774' => array(
+                                        'KTU6724' => array(
                                             'Auto' => array(
                                                "marca" => "porsche",
-                                               "modelo" => 2021,
+                                               "modelo" => 2017,
                                                "tipo" => "camioneta"
                                             ),
                                             "Propiertario" => array(
@@ -109,46 +109,46 @@
                                             )
                                             ),
           
-                                            'XMA1991' => array(
+                                            'ÑPV4241' => array(
                                                 'Auto' => array(
                                                    "marca" => "mazda",
                                                    "modelo" => 2015,
                                                    "tipo" => "auto"
                                                 ),
                                                 "Propiertario" => array(
-                                                 "nombre" => "Prakash Baniya",
-                                                 "ciudad" => "Kailali",
-                                                 "direccion" => "Sudinkot "
+                                                 "nombre" => "MARIO ALBERTO ESTRADA CERRILLOS",
+                                                 "ciudad" => "CDMX",
+                                                 "direccion" => "AV.INDEPENDENCIA NO. 678 "
                                                 )
                                                 ),
 
-                                                'WPG3398' => array(
+                                                'WJF1905' => array(
                                                     'Auto' => array(
                                                        "marca" => "HONDA",
                                                        "modelo" => 2018,
                                                        "tipo" => "camioneta"
                                                     ),
                                                     "Propiertario" => array(
-                                                     "nombre" => "Szűcs Dorina",
-                                                     "ciudad" => "Tét",
-                                                     "direccion" => "Pataki tér 486. 49. ajtó "
+                                                     "nombre" => "SERGIO RIVERA HERNANDEZ.",
+                                                     "ciudad" => "Puebla Pue.",
+                                                     "direccion" => "CALLE IGNACIO MATIAS NO.6 "
                                                     )
                                                     ),
                                                     
-                                                    'UWL3847' => array(
+                                                    'BDK8750' => array(
                                                         'Auto' => array(
                                                            "marca" => "alfaromeo",
                                                            "modelo" => 2010,
                                                            "tipo" => "hachback"
                                                         ),
                                                         "Propiertario" => array(
-                                                         "nombre" => "Manuela Paredes",
-                                                         "ciudad" => "A Martín Alta",
-                                                         "direccion" => "Travessera Teresa, 93, 2º 2º "
+                                                         "nombre" => "CAMILO MORA MUÑOZ",
+                                                         "ciudad" => "CDMX",
+                                                         "direccion" => "	CARRETERA A LOMA ALTA S/N. "
                                                         )
                                                         ),
 
-                                                        'FJK2320' => array(
+                                                        'LFX9050' => array(
                                                             'Auto' => array(
                                                                "marca" => "nissan",
                                                                "modelo" => 2022,
@@ -160,43 +160,43 @@
                                                              "direccion" => "5 Hane Lane "
                                                             )
                                                             ),
-                                                            'XEK6374' => array(
+                                                            'GNB9604' => array(
                                                                 'Auto' => array(
                                                                    "marca" => "chevrolet",
                                                                    "modelo" => 2020,
                                                                    "tipo" => "auto"
                                                                 ),
                                                                 "Propiertario" => array(
-                                                                 "nombre" => "Erminio Cattaneo",
-                                                                 "ciudad" => "Borgo Erminio",
-                                                                 "direccion" => "Via Cassiopea 5 "
+                                                                 "nombre" => "VICTOR SALGADO TORES",
+                                                                 "ciudad" => "CDMX",
+                                                                 "direccion" => "PROL.5 DE MAYO NO.786 "
                                                                 )
                                                                 ),
 
-                                                                'BMA5510' => array(
+                                                                'POP5230' => array(
                                                                     'Auto' => array(
                                                                        "marca" => "HONDA",
-                                                                       "modelo" => 2010,
+                                                                       "modelo" => 2012,
                                                                        "tipo" => "auto"
                                                                     ),
                                                                     "Propiertario" => array(
-                                                                     "nombre" => "Harald Otto",
-                                                                     "ciudad" => "Zittau",
-                                                                     "direccion" => "Karoline-Krämer-Allee 1b "
+                                                                     "nombre" => "CGI2298",
+                                                                     "ciudad" => "CDMX",
+                                                                     "direccion" => "CALLE AGUSTIN LARA NO. 69-B "
                                                                     )
                                                                     ),
 
                                                     
-                                                                    'CGE1248' => array(
+                                                                    'CGI2298' => array(
                                                                         'Auto' => array(
                                                                            "marca" => "nissan",
-                                                                           "modelo" => 2013,
-                                                                           "tipo" => "auto"
+                                                                           "modelo" => 2018,
+                                                                           "tipo" => "camioneta"
                                                                         ),
                                                                         "Propiertario" => array(
                                                                          "nombre" => "S. A. Sidhu",
-                                                                         "ciudad" => "Chukai",
-                                                                         "direccion" => "Lot 650, Jalan 6/3Y "
+                                                                         "ciudad" => "Teteles",
+                                                                         "direccion" => "25 sur "
                                                                         )
                                                                         ),
               );

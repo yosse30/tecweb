@@ -201,38 +201,38 @@
           </ul>
          <p>Usa print_r para mostrar la estructura general del arreglo, que luciría de forma similar al
           siguiente ejemplo:</p>
-          <p><strong> Array ( [UBN6338] => Array ( [Auto] => Array ( [marca] => HONDA [modelo] => 2020
-              [tipo] => camioneta ) [Propietario] => Array ( [nombre] => Alfonzo Esparza [ciudad]
-              => Puebla, Pue. [direccion] => C.U., Jardines de San Manuel ) ) <br>[UBN6339] => Array
-              ( [Auto] => Array ( [marca] => MAZDA [modelo] => 2019 [tipo] => sedan ) [Propietario]
-              => Array ( [nombre] => Ma. del Consuelo Molina [ciudad] => Puebla, Pue. [direccion]
-              => 97 oriente ) ) )</strong></p>
+          <p><strong> Array ( [GUR2428] => Array ( [Auto] => Array ( [marca] => nissan [modelo] => 2010
+              [tipo] => camioneta ) [Propietario] => Array ( [nombre] => Alberto Lopez [ciudad]
+              => Puebla, Pue. [direccion] => 14 sur ) ) <br>[POE5138] => Array
+              ( [Auto] => Array ( [marca] => MAZDA [modelo] => 2015 [tipo] => sedan ) [Propietario]
+              => Array ( [nombre] => Maria Juarez Gabriel [ciudad] => Puebla, Pue. [direccion]
+              => 73 oriente ) ) )</strong></p>
 
           <p>Escrito de forma más ordenada:</p>
           <p><strong>
             Array ( <br>
-            [UBN6338] =><br>
+            [GUR2428] =><br>
             Array (<br>
             [Auto] => Array (<br><br>
 
-            [marca] => HONDA [modelo] => 2020 [tipo] => camioneta<br>
+            [marca] => nissan [modelo] => 2010 [tipo] => camioneta<br>
             )<br>
             [Propietario] => Array (<br><br>
 
-            [nombre] => Alfonzo Esparza [ciudad] => Puebla, Pue. [direccion]<br>
-            => C.U., Jardines de San Manuel<br>
+            [nombre] => Alberto Lopez  [ciudad] => Puebla, Pue. [direccion]<br>
+            => 14 sur <br>
             )<br>
             )<br>
-            [UBN6339] =><br>
+            [POE5138] =><br>
             Array (<br>
             [Auto] => Array (<br><br>
 
-            [marca] => MAZDA [modelo] => 2019 [tipo] => sedan<br>
+            [marca] => MAZDA [modelo] => 2015 [tipo] => sedan<br>
             )<br>
             [Propietario] => Array (<br><br>
 
-            [nombre] => Ma. del Consuelo Molina [ciudad] => Puebla, Pue.<br>
-            [direccion] => 97 oriente<br>
+            [nombre] => Maria Juarez Gabriel [ciudad] => Puebla, Pue.<br>
+            [direccion] => 73 oriente<br>
             )<br>
             )<br>
             )<br>
@@ -249,21 +249,21 @@
             <fieldset>
                 <ol>
                 <li>Matricula: <select name="matricula">
-                    <option >UBN338</option>
-                    <option >QPY5119</option>
-                    <option >VVK9065</option>
-                    <option >JZW9484</option>
-                    <option >ALW1302</option>
-                    <option >MXU4644</option>
-                    <option >KGW0053</option>
-                    <option >KTU6774</option>
-                    <option >XMA1991</option>
-                    <option >WPG3398</option>
-                    <option >UWL3847</option>
-                    <option >FJK2320</option>
-                    <option >XEK6374</option>
-                    <option >BMA5510</option>
-                    <option >CGE1248</option>
+                    <option >GUR2428</option>
+                    <option >POE5138</option>
+                    <option >CWQ7725</option>
+                    <option >GXA2455</option>
+                    <option >RLZ4720</option>
+                    <option >MXU4149</option>
+                    <option >KHQ7823</option>
+                    <option >KTU6724</option>
+                    <option >ÑPV4241</option>
+                    <option >WJF1905</option>
+                    <option >BDK8750</option>
+                    <option >LFX9050</option>
+                    <option >GNB9604</option>
+                    <option >POP5230</option>
+                    <option >CGI2298</option>
                 </select><li><br>
                 </ol>
             </fieldset>

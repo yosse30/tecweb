@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CatalogoVOD>
+    <cuenta>
+        <correo>"yosselin.pablo@alumno.buap.mx"</correo>
+        <perfiles>
+            <perfil usuario="Yosselin" idioma="Español" />
+            <perfil usuario="Luis Jared" idioma="Español"/>
+        </perfiles>
+    </cuenta>
+    
+    <Contenido>
+        <peliculas>
+            <genero>
+                <nombre>"Accion"</nombre>
+                <titulo nombre="Emergencia en el aire" duracion="2 hora 27 minutos "/>
+                <titulo nombre="Avatar 2" duracion="3 hora 12 minutos "/>
+                <titulo nombre="Eternals" duracion="2 hora 37 minutos "/>
+                <titulo nombre="La ciudad perdida" duracion="1 hora 52 minutos"/>
+            </genero>
+            
+            <genero>
+                <nombre>"Comedia"</nombre>
+                <titulo nombre="Gato con botas: el ultimo deseo" duracion="1 horas 4 minutos" />
+                <titulo nombre="Red" duracion="1 horas 40 minutos" />                
+                <titulo nombre="Sonic" duracion="2 horas 02 minutos" />               
+                <titulo nombre="Misterio a la vista" duracion="1 hora 29 minutos" />
+            </genero>
+        </peliculas>
+        
+        <programas>
+            <genero>
+                <nombre>"Documentales"</nombre>
+                <titulo nombre="Indocumentados" duracion="1 temporada" />
+                <titulo nombre="Como cabiar tu mente" duracion="1 temporada" />
+                <titulo nombre="3%" duracion="4 temporadas" />
+                <titulo nombre="Our universe" duracion="1 temporada" />
+            </genero>
+            
+            <genero>
+                <nombre>"Drama"</nombre>
+                <titulo nombre="The Good Doctor" duracion="5 temporadas" />
+                <titulo nombre="Love alarm" duracion="2 temporadas" />
+                <titulo nombre="Riverdale" duracion="7 temporadas" />
+                <titulo nombre="Elite" duracion="6 temporadas" />
+            </genero>
+        </programas>
+    </Contenido>
+</CatalogoVOD>
+

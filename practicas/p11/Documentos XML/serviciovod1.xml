@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CatalogoVOD>
+    <cuenta>
+        <correo>yosselin.pablo@alumno.buap.mx</correo>
+        <perfiles>
+            <perfil>
+                <usuario>Yosselin</usuario>
+                <idioma>Español</idioma>
+            </perfil>
+            <perfil>
+                <usuario>Luis Jared</usuario>
+                <idioma>Español</idioma>
+            </perfil>
+        </perfiles>
+    </cuenta>
+    <contenido>
+        <peliculas>
+            <genero>
+                <nombre>Accion</nombre>
+                <titulo>
+                    <nombre>Emergencia en el aire</nombre>
+                    <duracion>2:27</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Avatar 2</nombre>
+                    <duracion>3:12</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Eternals</nombre>
+                    <duracion>2:37</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>La ciudad perdida</nombre>
+                    <duracion>1:52</duracion>
+                </titulo>
+            </genero>
+            <genero>
+                <nombre>Comedia</nombre>
+                <titulo>
+                    <nombre>Gato con botas: el ultimo deseo</nombre>
+                    <duracion>1:40</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Red</nombre>
+                    <duracion>1:40</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Sonic</nombre>
+                    <duracion>2:02</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Misterio a la vista</nombre>
+                    <duracion>1:29</duracion>
+                </titulo>
+            </genero>
+        </peliculas>
+        <programas>
+            <genero>
+                <nombre>Documentales</nombre>
+                <titulo>
+                    <nombre>Indocumentados</nombre>
+                    <duracion>1 temporada</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Como cambiar tu mente</nombre>
+                    <duracion>1 temporada</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>3%</nombre>
+                    <duracion>4 temporadas</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Our Universe</nombre>
+                    <duracion>1 temporada</duracion>
+                </titulo>
+            </genero>
+            <genero>
+                <nombre>Drama</nombre>
+                <titulo>
+                    <nombre>The Good Doctor</nombre>
+                    <duracion>5 temporadas</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Love alarm</nombre>
+                    <duracion>2 temporadas</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Riverdale</nombre>
+                    <duracion>7 temporadas</duracion>
+                </titulo>
+                <titulo>
+                    <nombre>Elite</nombre>
+                    <duracion>6 temporadas</duracion>
+                </titulo>
+            </genero>
+        </programas>
+    </contenido>
+</CatalogoVOD>
+

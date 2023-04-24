@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cinefanatico SYSTEM "cinefanatico.dtd">
+<cinefanatico>
+    <tarjeta noserie="34216" visitas="1" puntos="70">
+        <nombre>Yosselin Pablo Ruiz</nombre>
+        <correo>yosselin.pablo@alumno.buap.mx</correo>
+        <telefono tipo="movil">2288358188</telefono>
+    </tarjeta>
+    <tarjeta noserie="9785" visitas="4" puntos="200">
+        <nombre>Luis Jared Lopez Vasquez</nombre>
+        <correo>luis.lopez@gmail.com</correo>
+    </tarjeta>
+</cinefanatico>

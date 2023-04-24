@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CatalogoVOD>
+    <cuenta correo="yosselin.pablo.@alumno.buap.mx">
+        <perfiles>
+            <perfil usuario="Yosselin" idioma="Español"/>
+            <perfil usuario="Luis Jared" idioma="Español"/>
+        </perfiles>
+    </cuenta>
+    <contenido>
+        <peliculas>
+            <genero nombre="Accion">
+                <titulo duracion="2:27"><video id="11">Hola &lt; Emergencia en el aire</video></titulo>
+                <titulo duracion="2:37"><video id="11"><![CDATA[Hola < Eternals]]></video></titulo>
+            </genero>
+            <genero nombre="Comedia">
+                <titulo duracion="1:04">Gato con botas: el ultimo deseo</titulo>
+                <titulo duracion="1:29">Misterio a la vista</titulo>
+            </genero>
+        </peliculas>
+        <programas>
+            <genero nombre="Documentales">
+                <titulo duracion="1 temporada">Indocumentados</titulo>
+                <titulo duracion="1 temporada">Our universe</titulo>
+            </genero>
+            <genero nombre="Drama">
+                <titulo duracion="5 temporadas">The Good Doctor</titulo>
+                <titulo duracion="6 temporadas">Elite</titulo>
+            </genero>
+        </programas>
+    </contenido>
+</CatalogoVOD>
+
+

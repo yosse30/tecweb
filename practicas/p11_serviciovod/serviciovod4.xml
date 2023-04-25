@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE CatalogoVOD SYSTEM "serviciovod_ep.dtd">
 <CatalogoVOD>
-    <cuenta correo="yosselin.pablo@alumno.buap.mx">
+    <cuenta correo="yoelin.pablo@alumno.buap.mx">
         <perfiles>
             <perfil usuario="Yosselin" idioma="Español"/>
             <perfil usuario="Luis Jared" idioma="Español"/>
